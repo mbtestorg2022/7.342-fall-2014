@@ -53,18 +53,177 @@ The class is graded on a pass / fail basis, and grades will be based on particip
 Calendar
 --------
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Aberrant protein glycosylation in human disease | &nbsp; |
-| 3 | Imaging glycan patterns in developing embryos | Distribution of written assignment |
-| 4 | The role of protein glycosylation in bacterial motility | &nbsp; |
-| 5 | Engineering bacteria for glycoprotein production | &nbsp; |
-| 6 | Chemical strategies for glycoprotein production | &nbsp; |
-| 7 | Development and application of glycan arrays | Written Assignment Due; Optional Field Trip to the [Boston Glycobiology Discussion Group](http://www.glycobiologyboston.org/home) |
-| 8 | Metabolic glycan labeling in cancer | &nbsp; |
-| 9 | Glycan-based synthetic vaccines | Final selection of paper to present for the oral assignment |
-| 10 | A close look at influenza–host interactions | &nbsp; |
-| 11 | Synthetic antigens to generate HIV vaccines | &nbsp; |
-| 12 | The role of sugar metabolites in diabetes | &nbsp; |
-| 13 | Presentations | Oral Assignment Due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Aberrant protein glycosylation in human disease
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Imaging glycan patterns in developing embryos
+{{< tdclose >}}
+{{< tdopen >}}
+Distribution of written assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The role of protein glycosylation in bacterial motility
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Engineering bacteria for glycoprotein production
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Chemical strategies for glycoprotein production
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Development and application of glycan arrays
+{{< tdclose >}}
+{{< tdopen >}}
+Written Assignment Due; Optional Field Trip to the [Boston Glycobiology Discussion Group](http://www.glycobiologyboston.org/home)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Metabolic glycan labeling in cancer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Glycan-based synthetic vaccines
+{{< tdclose >}}
+{{< tdopen >}}
+Final selection of paper to present for the oral assignment
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+A close look at influenza–host interactions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Synthetic antigens to generate HIV vaccines
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The role of sugar metabolites in diabetes
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Assignment Due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
