@@ -17,7 +17,7 @@ Recommended prerequisites are:
 _7.05 General Biochemistry  
 _
 
-_[7.06 Cell Biology](/courses/7-06-cell-biology-spring-2007/)  
+_[7.06 Cell Biology](/courses/7-06-cell-biology-spring-2007)  
 _
 
 _[7.08J Biological Chemistry II](/courses/5-08j-biological-chemistry-ii-spring-2016)_
